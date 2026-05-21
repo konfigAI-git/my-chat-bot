@@ -1,0 +1,83 @@
+[
+  {
+    "id": "GEN001",
+    "category": "General",
+    "question": "IT support hours",
+    "keywords": ["helpdesk hours", "support hours", "it support time", "helpdesk time"],
+    "answer": "IT Helpdesk Support Hours:\n\n📧 Email: helpdesk@company.com\n📞 Phone: Extension 1234\n⏰ Hours: Monday-Friday, 8:00 AM - 8:00 PM\n🌐 Portal: https://helpdesk.company.com\n\nEmergency support is available for critical issues outside business hours.",
+    "tags": ["hours", "contact", "support"],
+    "priority": 1
+  },
+  {
+    "id": "GEN002",
+    "question": "How to contact IT Helpdesk?",
+    "keywords": ["contact helpdesk", "it support contact", "helpdesk phone", "it helpdesk email"],
+    "answer": "Contact IT Helpdesk through:\n\n• Phone: Extension 1234 (internal) or (555) 123-4567 (external)\n• Email: helpdesk@company.com\n• Portal: https://helpdesk.company.com\n• In-person: Room 205, Main Building\n\nFor urgent issues, call directly. For non-urgent requests, use the portal.",
+    "tags": ["contact", "helpdesk", "support"],
+    "priority": 2
+  },
+  {
+    "id": "GEN003",
+    "question": "VPN connection issues",
+    "keywords": ["vpn", "vpn connection", "vpn problems", "vpn not working", "remote access"],
+    "answer": "To troubleshoot VPN connection issues:\n\n1. Check your internet connection\n2. Verify your VPN credentials\n3. Restart the VPN client\n4. Try a different network connection\n5. Check for firewall or antivirus blocking\n6. Update VPN client software\n\nIf issues persist, contact IT with error messages received.",
+    "tags": ["vpn", "remote", "connection"],
+    "priority": 3
+  },
+  {
+    "id": "GEN004",
+    "question": "Submit an IT support ticket",
+    "keywords": ["submit ticket", "create ticket", "it ticket", "support request", "open ticket"],
+    "answer": "To submit an IT support ticket:\n\n1. Log in to the Helpdesk Portal: https://helpdesk.company.com\n2. Click 'New Ticket' or 'Submit Request'\n3. Select the appropriate category\n4. Provide detailed information about your issue\n5. Attach relevant screenshots or files\n6. Submit and track your ticket status\n\nYou'll receive a ticket number for reference and updates.",
+    "tags": ["ticket", "request", "portal"],
+    "priority": 4
+  },
+  {
+    "id": "GEN005",
+    "question": "Software installation request",
+    "keywords": ["install software", "request software", "software approval", "program installation"],
+    "answer": "To request software installation:\n\n1. Log in to the Software Portal at https://portal.company.com/software\n2. Browse the available software catalog\n3. Submit a request for software not available\n4. Provide justification and business need\n5. Wait for IT approval (typically 24-48 hours)\n6. Download and install approved software\n\nSome software requires department head approval for licensing.",
+    "tags": ["software", "request", "approval"],
+    "priority": 5
+  },
+  {
+    "id": "GEN006",
+    "question": "Password reset procedures",
+    "keywords": ["reset password", "change password", "unlock account", "password help"],
+    "answer": "Password reset procedures:\n\n1. For domain accounts: Press Ctrl+Alt+Delete and select 'Change a password'\n2. For online services: Use the 'Forgot Password' link\n3. If locked out: Contact Helpdesk at extension 1234\n4. Password requirements: 12+ characters, mix of upper/lower/numbers/symbols\n5. Password history: Cannot reuse last 12 passwords\n6. Expiration: Passwords expire every 90 days\n\nUse a password manager to maintain strong, unique passwords.",
+    "tags": ["password", "security", "account"],
+    "priority": 6
+  },
+  {
+    "id": "GEN007",
+    "question": "Email account setup",
+    "keywords": ["email setup", "outlook", "email configuration", "mail client"],
+    "answer": "To set up your email account:\n\n1. Open Outlook or your email client\n2. Enter your full email address and password\n3. For Outlook: Use Exchange settings automatically\n4. For mobile: Use Exchange ActiveSync\n5. Server settings are auto-discovered\n6. If manual setup is needed, contact IT for server details\n\nOutlook Web Access is available at https://outlook.company.com",
+    "tags": ["email", "outlook", "setup"],
+    "priority": 7
+  },
+  {
+    "id": "GEN008",
+    "question": "File sharing and storage",
+    "keywords": ["file share", "network drive", "shared folders", "storage", "drive mapping"],
+    "answer": "For file sharing and storage:\n\n1. Network drives are mapped automatically on domain-joined computers\n2. Access shared folders through File Explorer\n3. Use OneDrive for Business for cloud storage (5TB per user)\n4. Share files via SharePoint sites for team collaboration\n5. Contact IT to request shared folder permissions\n6. Follow data classification guidelines when sharing sensitive information\n\nRegular backups are required for important files using the company backup solution.",
+    "tags": ["file sharing", "storage", "network"],
+    "priority": 8
+  },
+  {
+    "id": "GEN009",
+    "question": "Computer hardware issues",
+    "keywords": ["computer problems", "hardware issues", "pc repair", "laptop issues"],
+    "answer": "For computer hardware issues:\n\n1. Document the issue with specific symptoms and error messages\n2. Check connections and cables\n3. Restart the computer\n4. Run system diagnostics if available\n5. For hardware failures, submit a repair request through the IT portal\n6. Contact IT for warranty and repair coordination\n\nDo not attempt to open or repair hardware yourself unless trained.",
+    "tags": ["hardware", "repair", "troubleshoot"],
+    "priority": 9
+  },
+  {
+    "id": "GEN010",
+    "question": "IT security best practices",
+    "keywords": ["security", "best practices", "phishing", "malware", "cybersecurity"],
+    "answer": "IT Security Best Practices:\n\n1. Never share your password or write it down\n2. Be cautious of phishing emails - verify sender addresses\n3. Keep software and antivirus updated\n4. Use multi-factor authentication when available\n5. Lock your computer when away from your desk\n6. Report suspicious emails to security@company.com\n7. Use company VPN for remote access\n8. Follow data handling guidelines for sensitive information\n\nRegular security training is provided to all employees.",
+    "tags": ["security", "best practices", "awareness"],
+    "priority": 10
+  }
+]

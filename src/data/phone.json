@@ -1,0 +1,43 @@
+[
+  {
+    "id": "PHONE001",
+    "category": "Phone",
+    "question": "How to access phone system?",
+    "keywords": ["phone system", "voip", "access phone", "company phone"],
+    "answer": "To access the company phone system:\n\n1. Log in to the WebRTC portal at https://phone.company.com\n2. Use your domain credentials\n3. Configure your softphone with the provided settings\n4. For hardware phones, contact IT for provisioning\n\nThe phone system uses Cisco Webex Teams for collaboration.",
+    "tags": ["access", "setup", "voip"],
+    "priority": 1
+  },
+  {
+    "id": "PHONE002",
+    "question": "Phone system issues",
+    "keywords": ["phone not working", "call issues", "voip problems", "phone error"],
+    "answer": "For phone system issues:\n\n1. Check your network connection\n2. Restart your phone device or softphone\n3. Verify your account settings in the portal\n4. Check for service announcements on the IT portal\n5. Try using the mobile app as an alternative\n\nIf issues continue, contact the phone support team at extension 1234.",
+    "tags": ["troubleshoot", "issues", "support"],
+    "priority": 2
+  },
+  {
+    "id": "PHONE003",
+    "question": "VoIP configuration",
+    "keywords": ["voip setup", "phone configuration", "sip settings", "phone settings"],
+    "answer": "To configure your VoIP phone:\n\n1. Download the Cisco Webex app or use the web portal\n2. Enter your company email and password\n3. Allow microphone and camera access\n4. Test your audio and video settings\n5. Add your contact information\n\nFor hardware IP phones, contact IT for configuration assistance.",
+    "tags": ["configuration", "setup", "voip"],
+    "priority": 3
+  },
+  {
+    "id": "PHONE004",
+    "question": "Phone hardware issues",
+    "keywords": ["phone broken", "headset problems", "phone not charging", "hardware故障"],
+    "answer": "For phone hardware issues:\n\n1. Check all cable connections\n2. Try a different power outlet\n3. Test with different headsets or handsets\n4. For IP phones, check the network connection\n5. Document the issue with photos if possible\n\nSubmit a hardware request through the IT portal or contact extension 1234.",
+    "tags": ["hardware", "repair", "maintenance"],
+    "priority": 4
+  },
+  {
+    "id": "PHONE005",
+    "question": "Call forwarding setup",
+    "keywords": ["forward calls", "call redirect", "auto-attendant", "call routing"],
+    "answer": "To set up call forwarding:\n\n1. Log in to the WebRTC portal\n2. Navigate to Settings > Call Forwarding\n3. Select the forwarding option (always, busy, no answer)\n4. Enter the forwarding number\n5. Set the timeout if applicable\n6. Save your settings\n\nTest the forwarding by calling your own extension.",
+    "tags": ["forwarding", "routing", "settings"],
+    "priority": 5
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "id": "SCANNER001",
+    "category": "Scanner",
+    "question": "Scanner not responding",
+    "keywords": ["scanner not working", "scanner offline", "scanner error", "scan not responding"],
+    "answer": "If your scanner is not responding:\n\n1. Ensure the scanner is powered on and connected\n2. Check USB or network connections\n3. Restart the scanner and your computer\n4. Reinstall the latest drivers from the IT portal\n5. Check for paper jams or obstructions\n\nFor network scanners, verify IP connectivity and printer sharing settings.",
+    "tags": ["troubleshoot", "connection", "setup"],
+    "priority": 1
+  },
+  {
+    "id": "SCANNER002",
+    "question": "Scan to email issues",
+    "keywords": ["scan email", "scan to email", "email scanning", "scan email problems"],
+    "answer": "For scan to email issues:\n\n1. Verify your email account is configured on the scanner\n2. Check network connectivity and SMTP settings\n3. Ensure the scanner has internet access\n4. Test with a different email address\n5. Check for attachment size limits\n\nContact IT if the scanner's email configuration needs resetting.",
+    "tags": ["email", "scan", "configuration"],
+    "priority": 2
+  },
+  {
+    "id": "SCANNER003",
+    "question": "Scanner drivers installation",
+    "keywords": ["scanner driver", "install driver", "scanner software", "driver download"],
+    "answer": "To install scanner drivers:\n\n1. Visit the IT Portal at https://portal.company.com\n2. Navigate to Software > Scanners\n3. Download the driver for your scanner model\n4. Run the installer as administrator\n5. Restart your computer\n6. Test the scanner\n\nFor enterprise scanners, IT may need to configure additional settings.",
+    "tags": ["installation", "drivers", "software"],
+    "priority": 3
+  },
+  {
+    "id": "SCANNER004",
+    "question": "Network scanner setup",
+    "keywords": ["network scanner", "scanner ip", "scanner sharing", "scanner network"],
+    "answer": "To set up a network scanner:\n\n1. Connect the scanner to your network via Ethernet or Wi-Fi\n2. Assign a static IP address or use DHCP reservation\n3. Install the scanner software on your computer\n4. Add the scanner using its IP address\n5. Configure sharing settings if needed\n6. Test scanning to a shared folder or email\n\nIT can assist with enterprise scanner configuration and security settings.",
+    "tags": ["network", "setup", "configuration"],
+    "priority": 4
+  },
+  {
+    "id": "SCANNER005",
+    "question": "Scanner maintenance",
+    "keywords": ["scanner cleaning", "scanner maintenance", "scanner care", "scanner upkeep"],
+    "answer": "Regular scanner maintenance:\n\n1. Clean the glass surface with a microfiber cloth\n2. Use scanner-specific cleaning solutions\n3. Keep the document feed path clear of debris\n4. Update firmware regularly from the manufacturer's website\n5. Store documents properly to prevent jams\n\nSchedule quarterly maintenance checks with IT for enterprise scanners.",
+    "tags": ["maintenance", "care", "cleaning"],
+    "priority": 5
+  }
+]
